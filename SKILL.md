@@ -1,6 +1,11 @@
+---
+name: "nonsense-literature"
+description: "废话文学生成、改写与分析专家。当用户要求创作废话文学、改写文字为废话风格、分析废话文本，或提到「废话文学」「听君一席话」等关键词时触发。"
+---
+
 # 废话文学 Skill（Nonsense Literature Skill）
 
-> **版本：** v3.0 终极版
+> **版本：** v1.0
 > **适用工具：** Cursor / Windsurf / Cline / Claude Code / Continue / Copilot / 任何支持自定义 System Prompt 的 AI 工具
 > **使用方式：** 根据下方各工具的格式要求，将对应内容复制到对应配置中
 
